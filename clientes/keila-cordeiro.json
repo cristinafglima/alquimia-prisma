@@ -21,7 +21,7 @@
   "cards": [
    { "titulo": "Seu rosto", "texto": "Misto, com propensão ao hexagonal de base reta: ângulos na base, curvas na parte de cima.", "foto": "rosto.jpg", "link": "orientacoes" },
    { "titulo": "Suas linhas", "texto": "Testa, olhos e boca curvos; sobrancelhas horizontais com leve angulação moderna.", "foto": "olhar.jpg", "link": "orientacoes" },
-   { "titulo": "Óculos criativos", "texto": "Armações grandes que parecem parte de você — sua marca mais autêntica.", "arte": "Óculos<br><i>criativos.</i>", "escuro": true, "link": "destaque" },
+   { "titulo": "Óculos criativos", "texto": "Armações grandes que parecem parte de você — sua marca mais autêntica.", "foto": "oculos.jpg", "link": "destaque" },
    { "titulo": "A transformação", "texto": "Linhas inclinadas para modernidade, curvas para harmonia — as duas juntas.", "foto": "corte.jpg", "link": "orientacoes" },
    { "titulo": "Finalizações", "texto": "Lisa, arrojada, com babyliss: cada escolha expressa uma versão de você.", "foto": "linhas.jpg", "link": "orientacoes" },
    { "titulo": "Acessórios", "texto": "Linhas retas para dias de força; formas redondas para dias de leveza.", "foto": "acessorios.jpg", "link": "orientacoes" }
